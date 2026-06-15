@@ -1,12 +1,32 @@
-## Salut, moi c’est Minhaj 👋 
+Salut, moi c'est Minhaj 👋
 
-💻 Développeur Full Stack passionné par la création d’applications modernes, performantes et scalables.
-🎯 Objectif : transformer mes idées (et celles de mes clients) en produits concrets, utiles et élégants.
+Développeur Full Stack — React Native & React · Je transforme des idées en applications livrées, du design à la production.
 
-#🚀 Ce que je fais
+🔭 Actuellement : je développe Pocketly, une application mobile de gestion de budget en bêta auprès de ses premiers utilisateurs.
 
-Frontend : React, Flutter, HTML, CSS, JavaScript
-Backend : Spring Boot, Node.js, PHP
-Bases de données : PostgreSQL, MongoDB, Supabase
-Tests & Qualité : JUnit, Cucumber, Cypress
-DevOps & Cloud : GitHub/GitLab CI/CD, Docker, AWS, Google Cloud
+📱 Pocketly — mon projet phare
+
+Application de gestion de budget intelligente : transactions récurrentes, statistiques, notifications.
+
+Stack : React Native · Expo · TypeScript · Supabase (Edge Functions)
+
+🛠️ Ma stack
+
+
+Mobile : React Native, Expo
+Web : React, Next.js, Tailwind CSS
+Back-end : Supabase, Spring Boot, Node.js, PostgreSQL
+Qualité : Cypress, JUnit, Cucumber
+CI/CD : GitHub Actions, Docker
+
+
+💼 En ce moment
+
+
+🎓 Mastère Expert Lead Développeur Fullstack (Bac+5) en alternance dès octobre 2026 — je recherche mon entreprise d'accueil
+💻 Disponible pour des missions freelance web & mobile
+
+
+📫 Me contacter
+
+Portfolio · LinkedIn · Malt · contact@minhajshafiq.com
