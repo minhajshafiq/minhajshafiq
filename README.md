@@ -2,9 +2,9 @@ Salut, moi c'est Minhaj 👋
 
 Développeur Full Stack — React Native & React · Je transforme des idées en applications livrées, du design à la production.
 
-🔭 Actuellement : je développe Pocketly, une application mobile de gestion de budget en bêta auprès de ses premiers utilisateurs.
+🔭 Actuellement : je développe Luxa, une application mobile de gestion de budget disponible sur iOS et bientôt sur Android.
 
-📱 Pocketly — mon projet phare
+📱 Luxa — mon projet phare
 
 Application de gestion de budget intelligente : transactions récurrentes, statistiques, notifications.
 
